@@ -1,0 +1,24 @@
+# Generated/rendering files
+tools/
+renders/
+exports/
+__pycache__/
+*.pyc
+
+# Blender/model binaries
+*.blend
+*.blend1
+*.fbx
+*.glb
+*.dll
+*.lib
+*.exe
+*.pdb
+
+# Common local-only files
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+Thumbs.db
